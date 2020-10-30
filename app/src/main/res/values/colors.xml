@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#364557</color>
+    <color name="colorPrimaryDark">#1B2432</color>
+    <color name="colorAccent">#929587</color>
+    <color name="tuna">#383B43</color>
+    <color name="satin_linen">#E7E2DA</color>
+    <color name="mantle">#9CA49C</color>
+    <color name="santas_gray">#9C9CA4</color>
+    <color name="charchoal">#364557</color>
+    <color name="black">#010103</color>
+    <color name="cultured">#F5F5F5</color>
+    <color name="gunmetal">#1B2432</color>
+    <color name="transparent_gunmetal">#C11B2432</color>
+    <color name="raisin_black">#292A2F</color>
+    <color name="artichoke">#929587</color>
+    <color name="light_gunmetal">#29303C</color>
+    <color name="white">#FFFFFF</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="star_color">#FFC107</color>
+</resources>

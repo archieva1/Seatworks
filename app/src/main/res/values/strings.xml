@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Seatwork1</string>
+    <string name="fragment_b_toolbar_header">Activity B</string>
+    <string name="fragment_a_input_item">Input New Item</string>
+    <string name="fragment_a_view_item">View Item Info</string>
+    <string name="fragment_a_modify_price">Modify Price</string>
+    <string name="fragment_a_modify_quantity">Modify Quantity</string>
+    <string name="fragment_a_remove_item">Remove Item</string>
+    <string name="fragment_a_author_info">Author Info</string>
+
+    //adding new item
+    <string name="item_image_prompt">No Image(s) Added</string>
+    <string name="item_add_image">Add Image</string>
+    <string name="item_code">Item Code</string>
+    <string name="item_code_prompt">Enter Item Code</string>
+    <string name="item_description">Item Description</string>
+    <string name="item_description_prompt">Enter Item Description</string>
+    <string name="unit_price">Unit Price</string>
+    <string name="unit_price_prompt">Enter Unit Price</string>
+    <string name="unit_quantity">Unit Quantity</string>
+    <string name="unit_quantity_prompt">Enter Unit Quantity</string>
+    <string name="unit_add_item_button">Add Item</string>
+
+    //modify price
+    <string name="modify_price_header">Modify Unit Price</string>
+    <string name="modify_unit_price_sub_header">Unit Price</string>
+    <string name="modify_unit_price_prompt">Enter new unit price</string>
+    <string name="modify_unit_price_save_unit_price">Save Unit Price</string>
+    //modify quantity
+    <string name="modify_quantity_header">Modify Unit Quantity</string>
+    <string name="modify_unit_quantity_sub_header">Unit Quantity</string>
+    <string name="modify_unit_quantity_prompt">Enter new unit quantity</string>
+    <string name="modify_unit_quantity_save_unit_quantity">Save Unit Quantity</string>
+
+    //author info
+    <string name="author_name">Archie Val Camposano</string>
+    <string name="author_date_create">Version 1.0: 10/24/2020</string>
+    <string name="author_description">Fourth Year BSIT student at University of Cebu-Banilad</string>
+</resources>

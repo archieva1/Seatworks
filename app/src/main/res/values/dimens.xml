@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_header">26sp</dimen>
+    <dimen name="text_header_one">22sp</dimen>
+    <dimen name="text_header_two">20sp</dimen>
+    <dimen name="text_header_three">18sp</dimen>
+    <dimen name="text_header_four">16sp</dimen>
+    <dimen name="text_header_five">15sp</dimen>
+    <dimen name="text_default">13sp</dimen>
+    <dimen name="margin_10">10dp</dimen>
+    <dimen name="padding_10">10dp</dimen>
+    <dimen name="margin_15">15dp</dimen>
+    <dimen name="padding_15">15dp</dimen>
+    <dimen name="margin_5">5dp</dimen>
+    <dimen name="padding_5">5dp</dimen>
+    <dimen name="margin_20">20dp</dimen>
+    <dimen name="padding_20">20dp</dimen>
+    <dimen name="margin_50">50dp</dimen>
+    <dimen name="padding_50">50dp</dimen>
+</resources>

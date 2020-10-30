@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ActivityB">
+
+    <androidx.viewpager.widget.ViewPager
+        android:id="@+id/activity_b_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/activity_b_toolbar"
+        android:layout_alignParentTop="true"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:background="@color/transparent_gunmetal"
+        android:minHeight="?attr/actionBarSize">
+
+        <TextView
+            android:id="@+id/toolbar_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/text_header_one"
+            android:textStyle="bold"
+            android:drawablePadding="@dimen/padding_10"
+            android:textColor="@color/white"
+            android:layout_gravity="center" />
+    </androidx.appcompat.widget.Toolbar>
+</RelativeLayout>
